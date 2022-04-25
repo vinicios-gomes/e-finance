@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-finance-cd560",
+  "private_key_id": "402885c147127cf7d66a816356e2f598beb08ff4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3SiXZwfSZURSj\ngqiBGRiX1j4ci1L3RbWfATvzYpY+bqT3m5WSpPOAAMUjb0x/PzffjJvPzRY6i1q3\nkC6COkBkqPZgRAngyQudaXEU9mR4zJDsFDn5JiFoQLpd+3914z0rpDV74/wCciBD\nxaU4lYSuRWL5QSpe+q46xRRy8+GxMkbU75FRMbHSIrT8COK8a+8LyJAcNC59ezrW\n8VVIjw2JSgfGEVy26/D7elyuyGphssDY7wxcocC6bFfO7plnVcS24YqS/REaMl9n\nygysZzEo2Z8J8CDryt/2ehFbtzrmd5XBASRxmzXLOWuJrCo2qaREuuxKDqI0nk3f\nSttRZU21AgMBAAECggEAAc0UuiMRyD/nuAOcrEgW2ccdLSKhWhSxSDK26Blb6Jkl\nvdklix9b1TIsvcBmPAne/q9fCJe3VDPyXENqcZUo9NREN4XzouXW22Eh31bcfeNk\nuS0ptK0PPvsD2dCS3BGzlC406FbBLzT35DKZAQlXGG9OHazqQays8Z7mKIsE+LzF\nd+x4Y5SXzhBntL9D0m55joFvB4cNg5O0Y5QOSoMdPq0i9NlCd057ysiMg8YQx489\nEuN3NHFjOqKkaA63XgcCniwch64Q44kO160EMMCTpJ0mZXM79gKjToYqbCxCpCbA\n0ANdj+hq54e3j+aFucaYhur7pHAwd914ip0PmpO0gQKBgQDrEq0S0rn2yY5wV4s1\nN3YCBG+xWAt3neRS0L/rQNcOntpd1ZnLziqGQOha04TxaLRHaRfBMcTPIJJn7+T1\n0B0dDzqxOoxq/nt376EcHx7HtkvvOdSPXVoAviOjMjSu3VOxavWN0+GwPYVKK1Sc\nXk6w67AqVfPeddXOh57ObHYJHQKBgQDHm1PcSZr0z0DhmcUBHkidIseQeJkx2lW6\nMom27CEJVZ0gZ6LFJ/sEdg/msnx+r9gPpbBMyzlMObQoClFrpJY2Slfcm8fgTdKU\nfpOG55yHL3Sjph4wEWIJsJjWLTayCJX+RHvbRxMJjKlcWlVRTeRe3s1RSgjp4pV0\nLbGHeRXLeQKBgFT8xZH+mbk9mb/IBs5QpNuJ2w/U8yBl9zxxuFFHefkROYWfSiFD\nAmDTaq4btv7IihUfS7VPVwZDkmr9clvkyAHPlbqpnka4hs8P1cGjBq/RmpZ84/qJ\nF5cZJy1DY4StBCsqrmh+aCQduejczZRTDEQukdxcgvS0yX4HzkR3Nh2JAoGAAuos\nvlHA1oRUQTcanlqP2uOQIHbyXbz/dXmZczddgCJk6f05bkGYM8d5kffXQ45TzF6y\nBV0OWCObkt4btEOyAdbyE4Ge2JKqWYrDorutGHhD7sPVOwR19whCIxaD7vObJRxg\n5qHSEFiifHvBNS+6/vun6eD34lpxrkGgjwbgn5kCgYAOxNaYvNKyX/+ZFcDsTaWr\nY7qlI0GmAwTLHzd55PUqhJo9hJBCNLMeKrvouHJcbSxx+GM60ibKpFll87HLHAzJ\nJdEOL7wV1zsShAoGahh/n/rrfNgAN2bOXMwhbHvZPxF/OqmZ2iYNpsf8sOCRamDj\nG+jG1uN0dL38wqUqM9rdEg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-edt9j@e-finance-cd560.iam.gserviceaccount.com",
+  "client_id": "101211349802195037612",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-edt9j%40e-finance-cd560.iam.gserviceaccount.com"
+}

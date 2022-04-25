@@ -1,8 +1,13 @@
 {
-  "name": "nextjs-boilerplate",
-  "description": "A structure ready to use nextjs boilerplate with typescript, react, Jest, React Testing Library, Mirage, and more",
+  "name": "e-finance",
+  "description": "e-finance",
   "version": "1.0.0",
   "author": "Vinicios Gomes<viniciusgomesviana@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinicios-gomes/e-finance",
+    "private": false
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -25,6 +30,8 @@
     "@next/bundle-analyzer": "^12.1.5",
     "axios": "^0.26.1",
     "babel-plugin-import": "^1.13.5",
+    "firebase": "^9.6.11",
+    "firebase-admin": "^10.1.0",
     "framer-motion": "^6.3.1",
     "next": "12.1.5",
     "next-compose-plugins": "^2.2.1",
